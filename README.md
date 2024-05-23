@@ -1,7 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
-# Operating Systems and Networks | Mini Project 1
 ### sheeSH | a C Shell
-Nanda Rajiv | 2021115002
+Nanda Rajiv
 
 ### Instructions
 - To compile the shell, run the command `make` in the terminal.
