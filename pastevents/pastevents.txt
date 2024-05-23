@@ -1,0 +1,15 @@
+proclore | wc | wc
+proclore|wc
+proclore | wc| wc
+proclore | wc | wc
+warp iman | peek | wc
+warp iman | peek
+warp ~
+history
+peek -la
+cd
+warp
+peek -al
+cd -
+warp -
+iMan ls
